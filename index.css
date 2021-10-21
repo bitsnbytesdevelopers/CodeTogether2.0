@@ -1,0 +1,24 @@
+/* BOOTSTRAP CHANGES */
+.bg-dark{
+    background-color: rgba(0, 0, 0, 0.9) !important;
+}
+
+
+/* MY CHANGES */
+
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Patrick Hand', cursive;
+}
+nav{
+    min-height: 80px;
+    padding: 0;
+}
+.navbar-brand{
+    /* font-family: 'Ephesis', cursive; */
+    font-family: 'Akronim', cursive;
+    font-size: 2rem;
+}
