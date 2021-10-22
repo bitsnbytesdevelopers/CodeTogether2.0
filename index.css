@@ -18,7 +18,8 @@ nav{
     padding: 0;
 }
 .navbar-brand{
-    /* font-family: 'Ephesis', cursive; */
-    font-family: 'Akronim', cursive;
+    /* font-family: 'Patrick Hand', cursive; */
+    font-family: 'Ephesis', cursive;
+    /* font-family: 'Akronim', cursive; */
     font-size: 2rem;
 }
